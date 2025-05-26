@@ -32,11 +32,10 @@ export const experiencesData = [
     company: 'Outlier AI, remote',
     description:
       'At Outlier AI, I designed and developed responsive user interfaces using React and TypeScript. Focused on building reusable, scalable components and collaborated closely with designers and backend developers to ensure a seamless, consistent user experience.',
-    period: 'Mar 2025 – Apr 2025',
+    period: 'Mar 2025 - Apr 2025',
     technologies: ['React', 'TypeScript', 'Tailwind CSS'],
   },
 ] as const;
-
 
 export const skillsData = [
   {
