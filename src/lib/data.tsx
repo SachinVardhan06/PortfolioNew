@@ -1,5 +1,5 @@
-import { Icons } from '@/components/icons';
 import { projectsData } from './projects-data';
+import { Icons } from '@/components/icons';
 
 export const links = [
   {
