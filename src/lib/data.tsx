@@ -1,5 +1,4 @@
-// External imports
-// Internal imports
+/* eslint-disable simple-import-sort/imports */
 import { Icons } from '@/components/icons';
 // Local imports
 import { projectsData } from './projects-data';
