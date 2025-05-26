@@ -21,13 +21,13 @@ export const About = () => {
       <SectionHeading heading="About Me" />
       <div className="-mt-5 max-w-2xl text-center leading-7">
         <p className="mb-4">
-          Hey, I'm Sachin Vardhan — a front-end dev from India. I’ve been into
-          coding for over 3 years now, ever since high school sparked my love
-          for building stuff and solving problems. I’m most at home working with
-          React, Next.js, TypeScript, and Tailwind CSS, and I’ve also played
-          around with Nest.js and Prisma. Nothing beats the feeling of finally
-          cracking a tough bug or shipping a clean UI. Always learning, always
-          building, and always down for new challenges.
+          Hey, I&apos;m Sachin Vardhan — a front-end dev from India. I&apos;ve
+          been into coding for over 3 years now, ever since high school sparked
+          my love for building stuff and solving problems. I&apos;m most at home
+          working with React, Next.js, TypeScript, and Tailwind CSS, and
+          I&apos;ve also played around with Nest.js and Prisma. Nothing beats
+          the feeling of finally cracking a tough bug or shipping a clean UI.
+          Always learning, always building, and always down for new challenges.
         </p>
         <p>
           I&apos;m open to Job opportunities where I can contribute, learn and
